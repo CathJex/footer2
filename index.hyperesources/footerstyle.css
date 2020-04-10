@@ -2,10 +2,12 @@
 a:link, a:visited {
   color: #4B6FB3;
   text-decoration: none;
+  font: Roboto;
 }
 
 /* mouse over link */
 a:hover {
   color: #292975;
   text-decoration: underline;
+  font: Roboto;
 }
